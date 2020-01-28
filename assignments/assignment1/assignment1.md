@@ -1,6 +1,6 @@
-# Creative Domain Analysis:<br>Piano Practice and Performance
+# Creative Domain Analysis: Piano Practice and Performance
 
-## Raphael Radna<br>MAT-594X W20<br>January 28th, 2020
+### Raphael Radna<br>MAT-594X W20<br>January 28th, 2020
 
 ### Introduction
 The following analysis of piano practice and performance considers both commonly-held beliefs in the field and insights from my personal experience to explore the domain through the lens of creativity support. Playing the piano is a demanding art form that engages both the body and mind. It requires a certain refinement of the ear and the development of specific motor controls, as well as the acquisition of specialized skills, such as reading music notation and conducting harmonic analysis. Successful development as a pianist necessitates regular lessons with a teacher, and an effective practice regimen, for which some suggestions are offered. Consideration is also given to some technologies and forms of collaboration available to the modern pianist.
@@ -42,7 +42,7 @@ One could argue that the interpretive act of playing piano music is itself an ac
 
 In chamber music ensembles, the performers actively communicate throughout a performance, including maintaining line of sight and giving clear physical cues, in order to coordinate entrances and convey intention. While each musician acts as a representative expert of their own instrument and makes decisions about the execution of their own part, issues of expression, articulation, and dynamics that affect the interpretation of the piece as a whole are discussed and resolved during rehearsal. In the special case of music for piano four hands (two pianists playing the same instrument), this spatial collaboration extends to the physicality of the situation: the players must negotiate control over sections of the keyboard at different times, operation of the pedals, or responsibility for particular page turns, among other considerations.
 
-Vocal accompaniment is a much more asymmetric form of collaboration; decisions about tempo, rhythmic feel, and dynamics are all determined by the vocalist, and it is incumbent on the pianist to follow them during performance. In this context, the pianist does not have the same amount of creative liberty as the vocalist, and instead provides support for the vocal performance. Accompaniment for dance is similar.
+Vocal accompaniment is a much more asymmetric form of collaboration; decisions about tempo, rhythmic feel, and dynamics are all determined by the vocalist, and it is incumbent on the pianist to follow them during performance. In this context, the pianist does not have the same amount of creative liberty as the vocalist, and instead provides support for the vocal performance. Accompaniment for dance presents a similar situation.
 
 The collaborative model of the piano concerto presents the opposite case, in which the pianist is a featured soloist accompanied by the orchestra. Traditionally, the pianist determines the tempo and character of the performance, and the orchestra follows them. In practice, the resulting interpretation is usually a compromise between the vision of the pianist and that of the conductor.
 
