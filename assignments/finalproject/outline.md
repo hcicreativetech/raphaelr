@@ -1,9 +1,10 @@
-# A Critical Anaysis of Contemporary Graphic Sound Synthesis Software
+# A Critical Analysis of Contemporary Graphic Sound Synthesis Software
 ### Raphael Radna<br>MAT-594X W20<br>March 12th, 2020
 
 ### Abstract
 * Define Graphic Sound Synthesis
 * Summarize history, major trends
+* Pose research questions
 * Describe analysis, naming 5 subject applications
 * Summarize results, directions for new development
 
@@ -12,14 +13,16 @@
 * Overview
 	* Properties of visual vs. sonic media
 	* The problem of mapping
-		* Frequency domain (sonographic) paradigm
+		* Physical vs. perceptual properties
+		* The frequency domain (sonographic) paradigm
 			* Problem of pitch specificity
 				* Difficult to draw deterministic harmonies, melodies
 			* Timbre fatigue
-				* Many timbres can't by synthesized with additive methods
+				* Many timbres are poorly represented, cannot be synthesized by additive methods
+			* Poor representation of perceptual qualities of sound
 	* Graphic score specification (data visualization), or sonified art?
 		* "musical drawing" vs. "visual composing"
-		* Can the goals of visual and sonic art be aligned?
+		* Can the goals of visual and sonic art be aligned? Or do all systems privilege one over the other?
 * Historic Systems
 	* Analog
 		* ANS, Oramics
@@ -33,7 +36,7 @@
 		* UPISketch
 		* SketchSynth
 	* Brief descriptions of the above
-		* Developer, development history, overview, license, etc.
+		* Developer, development history, interface, features, license, reception etc.
 
 ### Motivation
 * Background
@@ -41,8 +44,8 @@
 		* Affordances? Risks?
 		* What can be created?
 			* Visual art, sonic art, performance, something else?
-		* Who can use them?
-			* Opportunity (boundary object?) for artists to enter a new domain, or for novices to experiment with both
+		* Who can use this software?
+			* Opportunity (boundary object?) for artists to enter a new domain, or for non-specialists to experiment with both
 * Research questions
 	* What mappings between visual forms and sound do the selected programs employ/support?
 	* In what ways do the program interfaces enforce or create tension with these paradigms?
@@ -53,10 +56,11 @@
 	* Contemporary
 		* All software under recent or current development
 	* Availability
-		* Demo versions and open source/free software
-	* Compatabillity
+		* Demo versions or open source/free software
+		* Available for download
+	* Compatibillity
 		* Ability to run on modern systems
-	* The above were taken as more important considerations than specific features of the software
+	* The above considerations were taken as more important than specific features of the software
 
 ### Evaluation
 * Methodology
@@ -85,5 +89,6 @@
 ### Conclusion
 * Identification of patterns emerging from results
 	* What is common among the software?
+* Limitations of analytical approach
 * Summary of potential directions based on analysis
 * Implications of findings for development of new software
