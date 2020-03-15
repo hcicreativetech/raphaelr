@@ -23,11 +23,6 @@
 	* Graphic score specification (data visualization), or sonified art?
 		* "musical drawing" vs. "visual composing"
 		* Can the goals of visual and sonic art be aligned? Or do all systems privilege one over the other?
-* Historic Systems
-	* Analog
-		* ANS, Oramics
-	* Digital
-		* Graphic 1, UPIC, Real-Time UPIC
 * Software to be analyzed
 	* Applications
 		* Metasynth
@@ -45,7 +40,7 @@
 		* What can be created?
 			* Visual art, sonic art, performance, something else?
 		* Who can use this software?
-			* Opportunity (boundary object?) for artists to enter a new domain, or for non-specialists to experiment with both
+			* Opportunity (boundary object?) for artists to enter a new domain, or for non-specialists to experiment with both modalities
 * Research questions
 	* What mappings between visual forms and sound do the selected programs employ/support?
 	* In what ways do the program interfaces enforce or create tension with these paradigms?
@@ -76,9 +71,9 @@
 	* Some programs have long history (Metasynth); some are brand new (SketchSynth)
 		* Older projects will naturally have more robust feature sets
 	* Some programs have detailed reference material, research publications; other's don't
-		* These resources could influence my exploration with the program by demystifying their use
+		* These resources could influence my exploration with the program
 	* Some programs have an online user community; others don't
-		* Online communities
+		* Online communities give context to a program's creation, usage
 * Results
 	* Figures
 		* Annotated interface(s)
