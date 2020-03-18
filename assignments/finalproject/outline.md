@@ -73,7 +73,7 @@
 	* Figures
 		* Annotated interface(s)
 			* How many? Can I do it for every app?
-			* Display canvas's showing what I made, mention how I made it?
+			* Display canvases showing what I made, mention how I made it?
 		* Plotting the applications in a 2D or 3D space
 			* According to ratings recorded using methodology referenced 
 
@@ -87,7 +87,7 @@
 		* Online communities give context to a program's creation, usage
 above
 	* Other limitations of analytical approach
-		* difficulty in standardizing usage
+		* Difficulty in standardizing usage
 			* didnt feel right to use a fixed time limit, since some programs are more complex than others, etc.
 		* Only me
 			* Could've been interesting to seek users of these applications
